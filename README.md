@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiogoMPSantos
 - 👀 I’m interested in learning and passing on knowledge.
-- 🌱 I’m currently learning Jest and Go.
+- 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on social projects and new ideas.
 - 📫 How to reach me linkedin.com/in/diogo-santos-552743187
 
