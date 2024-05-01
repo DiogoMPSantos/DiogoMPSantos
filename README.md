@@ -5,6 +5,7 @@
 - 📫 How to reach me linkedin.com/in/diogo-santos-552743187
 
 
+
 ![snake gif](https://github.com/DiogoMPSantos/DiogoMPSantos/blob/output/github-contribution-grid-snake.gif)
 
 <!---
